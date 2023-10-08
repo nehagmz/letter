@@ -1,0 +1,25 @@
+.sender
+{
+text-align: right;
+}
+
+.receiver
+{
+text-align: left;
+}
+
+h1
+{
+text-align: left;
+font-size: larger;
+}
+
+h2
+{
+    text-align: left;
+    font-size: large;
+}
+h3
+{
+    font-size: medium;
+}
